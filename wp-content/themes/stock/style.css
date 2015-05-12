@@ -1,0 +1,158 @@
+/**
+  Theme Name: Modern Theme
+  Version: 1
+  Author: Nicool
+*/
+
+
+
+body {
+	background-image: url("header.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+
+/**
+.headimage {
+	background-image: url("header.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: blue;
+}
+**/
+
+
+.navbar-xs .navbar-primary .navbar { 
+	min-height:28px; 
+	height: 28px; 
+}
+
+.navbar-xs .navbar-primary .navbar .navbar-nav > li > a {  
+	padding-top: 0px; 
+	padding-bottom: 0px; 
+	line-height: 28px; 
+	color: white;
+
+}
+
+.title {
+	color: white;
+}
+.signinsignup {
+	color: white;
+	padding: 20px;
+	margin: 50px;
+}
+
+
+
+.statement {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 100px;
+	font-family: 'Comfortaa', cursive;
+}
+
+.black {
+	background-color: black;
+	color: white;
+	height: 175px;
+	opacity: .8;
+	font-size: 20px;
+	margin-top: 120px;
+	text-align: center;
+	padding-top: 65px;
+
+}
+
+
+.btn-default {
+	background-color: #B2FF66;
+	border: none;
+	width: 100px;
+}
+
+.form-control {
+	border:none;
+	width:400px;
+}
+
+
+.search {
+	margin-top: 100px;
+	
+
+}
+
+.deals {
+	height: 185px;
+	width: 185px;
+	background-color: #B2FF66;
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 175px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.chairimg {
+	height: 185px;
+	width: 185px;
+	background-color: #B2FF66;
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 175px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.options {
+	padding: 10px ;
+}
+
+/**contact**/
+
+.btn .btn-primary {
+	background-color: green;
+}
+
+
+
+/**footer**/
+
+.foot {
+	background-color: black;
+	list-style-type: none;
+	color: white;
+	height: 175px;
+	font-size: 10px;
+	
+	content: center;
+	padding-top: 65px;
+
+}
+
+.foot a:link {
+    text-decoration: none;
+    color: white;
+}
+
+.foot a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.foot a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.foot a:active {
+    text-decoration: none;
+    color: white;
+}
